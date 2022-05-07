@@ -1,2 +1,2 @@
-# TODO---list
-simple todo list using vanillia javascript
+# TODO-list
+simple todo list using vanila javascript
